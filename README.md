@@ -8,4 +8,9 @@ Client:
 	npm install
 	npm start
 
+API:
+	cd api 
+	npm install 
+	npm start
+
 	
