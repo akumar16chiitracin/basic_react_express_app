@@ -1,16 +1,20 @@
 # basic_react_express_app
 
 Prerequisites:
-	Install NodeJS
+
+   1. install nodeJS
+
 
 Client:
-	cd client
-	npm install
-	npm start
+
+        cd client
+        npm install
+        npm start
 
 API:
-	cd api 
-	npm install 
-	npm start
+
+        cd api
+        npm install
+        npm start
 
 	
